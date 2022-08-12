@@ -1,10 +1,10 @@
 Outlet Sales
 
 Business problem:
-We are analysing sales per outlet
+We are analyzing sales per outlet
 
 Data:
-Variables include: Analys over Item weight, fat content, type, visibility, etc.
+Variables include: Analysis over Item weight, fat content, type, visibility, etc.
 
 
 Methods
